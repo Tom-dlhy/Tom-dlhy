@@ -20,7 +20,7 @@ I am a Master’s student (M1) specializing in Data Science and Artificial Intel
 
 ## 📚 Recent Projects
 
-- **Fraud Detection System**: Developed a fraud detection model using machine learning techniques, including logistic regression, SVM, and KNN, combined with SMOTE for imbalanced data handling. Improved fraud detection accuracy by 15%.
+- **Fraud Detection System**: Developed a fraud detection model using machine learning techniques, including logistic regression, SVM, and KNN, combined with SMOTE for imbalanced data handling.
 - **Biscuit Optimization**: Implemented an optimization algorithm for a biscuit manufacturing process, maximizing profit while reducing waste using Python-based heuristics.
 - **Movie Recommendation System**: Built a collaborative filtering recommendation system using KNN and SVD to predict user preferences based on historical data.
 - **Social Rights Assistant Chatbot**: Created a chatbot leveraging OpenAI's API for answering HR and social rights questions, integrating document embeddings with Chroma for enhanced search capabilities.
