@@ -6,9 +6,9 @@ I am a Master’s student (M1) specializing in Data Science and Artificial Intel
 ## 🛠️ Skills
 
 - **Programming Languages**: Python, SQL, C#, R
-- **Data Analysis**: Expert in libraries like Pandas, NumPy, and Scikit-learn
-- **Machine Learning**: Experience with supervised and unsupervised learning, including popular models like Random Forest, Gradient Boosting (XGBoost), K-Nearest Neighbors (KNN), and Support Vector Machines (SVM)
-- **Data Science**: Skilled in feature engineering, statistical analysis, data visualization, and predictive modeling using libraries like Matplotlib, Seaborn, and Sweetviz
+- **Data Analysis**: Expert in libraries like **Pandas**, **NumPy**, and **Scikit-learn**
+- **Machine Learning**: Experience with supervised and unsupervised learning, including popular models like **Random Forest**, **Gradient Boosting (XGBoost)**, **K-Nearest Neighbors (KNN)**, and **Support Vector Machines (SVM)**
+- **Data Science**: Skilled in feature engineering, statistical analysis, data visualization, and predictive modeling using libraries like **Matplotlib**, **Seaborn**, and **Sweetviz**
 - **Deep Learning**:
   - Proficient in **TensorFlow** and **PyTorch**
   - Experienced with neural network architectures such as **Convolutional Neural Networks (CNNs)**, **Recurrent Neural Networks (RNNs)**, and transformer-based models (e.g., **BERT**, **GPT**)
