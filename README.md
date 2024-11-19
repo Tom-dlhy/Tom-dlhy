@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Tom Delahaye
 
-I am a Master’s student (M1) specializing in Data Science and Artificial Intelligence at ESILV, currently pursuing a Research Track with a project centered on *Unsupervised Deep Learning for Information Retrieval of Long Documents*. Passionate about data analysis, machine learning, and innovation, I leverage AI techniques for real-world applications, particularly in fraud detection, optimization, and predictive analytics.
+I am a Master’s student (M1) specializing in Data Science and Artificial Intelligence at ESILV, currently pursuing a Research Track with a project centered on *Unsupervised Deep Learning for Information Retrieval of Long Documents*. Passionate about data analysis, machine learning, and innovation.
 
 
 ## 🛠️ Skills
