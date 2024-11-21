@@ -1,35 +1,65 @@
-## 👋 Hi, I’m Tom Delahaye
+# 👋 Hi, I’m Tom Delahaye
 
-I am a Master’s student (M1) specializing in Data Science and Artificial Intelligence at ESILV, currently pursuing a Research Track with a project centered on *Unsupervised Deep Learning for Information Retrieval of Long Documents*. Passionate about data analysis, machine learning, and innovation.
+I am a Master’s student (M1) specializing in **Data Science** and **Artificial Intelligence** at **ESILV**, currently pursuing a **Research Track** with a project centered on **Unsupervised Deep Learning for Information Retrieval of Long Documents**. My passion lies in data analysis, machine learning, and innovation, with a focus on real-world applications.
 
 
 ## 🛠️ Skills
 
+### Programming & Tools
 - **Programming Languages**: Python, SQL, C#, R
-- **Data Analysis**: Expert in libraries like **Pandas**, **NumPy**, and **Scikit-learn**
-- **Machine Learning**: Experience with supervised and unsupervised learning, including popular models like **Random Forest**, **Gradient Boosting (XGBoost)**, **K-Nearest Neighbors (KNN)**, and **Support Vector Machines (SVM)**
-- **Data Science**: Skilled in feature engineering, statistical analysis, data visualization, and predictive modeling using libraries like **Matplotlib**, **Seaborn**, and **Sweetviz**
-- **Deep Learning**:
-  - Proficient in **TensorFlow** and **PyTorch**
-  - Experienced with neural network architectures such as **Convolutional Neural Networks (CNNs)**, **Recurrent Neural Networks (RNNs)**, and transformer-based models (e.g., **BERT**, **GPT**)
-- **LLM (Large Language Models)**:
-  - Skilled in building LLM pipelines using **LangChain** for orchestration of complex workflows
-  - Experience with **OpenAI API**, **Chroma**, and **FAISS** for efficient information retrieval and response generation
-  - Developed chatbots and document analysis systems leveraging **GPT models** and integrated tools like **EasyOCR** for text extraction
+- **Data Analysis**: Expert in Pandas, NumPy, and Scikit-learn
+- **Machine Learning**: Hands-on experience with algorithms such as Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Machines (SVM), Random Forest, and Gradient Boosting (e.g., XGBoost)
+- **Data Visualization**: Proficient with Matplotlib, Seaborn, and Sweetviz
+
+### Deep Learning
+- **Frameworks**: TensorFlow, PyTorch
+- **Architectures**: Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Transformer models (BERT, GPT)
+
+### LLM (Large Language Models)
+- **Pipeline Development**: Built LLM workflows with **LangChain** for task orchestration
+- **Tools**: Integrated OpenAI API, Chroma, and FAISS for efficient document retrieval
+- **Applications**: Developed intelligent chatbots, document analysis systems, and incorporated tools like **EasyOCR** for text extraction
 
 
 ## 📚 Recent Projects
 
-- **Fraud Detection System**: Developed a fraud detection model using machine learning techniques, including logistic regression, SVM, and KNN, combined with SMOTE for imbalanced data handling.
-- **Biscuit Optimization**: Implemented an optimization algorithm for a biscuit manufacturing process, maximizing profit while reducing waste using Python-based heuristics.
-- **Movie Recommendation System**: Built a collaborative filtering recommendation system using KNN and SVD to predict user preferences based on historical data.
-- **Assistant Chatbot**: Created a chatbot leveraging OpenAI's API for answering HR and social rights questions, integrating document embeddings with Chroma for enhanced search capabilities.
-- **TransConnect Management System**: Developed a comprehensive management application for a transportation company in C#. The system handles employee, client, vehicle, and order management with features such as organizational chart display using an n-ary tree, route optimization with Dijkstra’s algorithm, and client and order analytics.
+### 1. **Assistant Chatbot**
+- Designed and implemented a chatbot to answer HR and social rights questions.
+- Leveraged **GPT-based LLMs** using the **OpenAI API** for contextual responses.
+- Built a document retrieval system with **Chroma embeddings** and **FAISS** for enhanced search capabilities.
+- Integrated **EasyOCR** for image text extraction and processed multiple document types efficiently.
+- **Key Features**:
+  - Smart document understanding for accurate answers.
+  - Streamlined workflows for multi-step user queries with **LangChain**.
+
+### 2. **Fraud Detection System**
+- Developed a machine learning model to identify fraudulent transactions.
+- Tackled data imbalance using **SMOTE**, achieving accurate predictions with logistic regression, SVM, and KNN.
+- Focused on real-world scalability and explainability.
+
+### 3. **Movie Recommendation System**
+- Built a collaborative filtering system using **KNN** and **SVD** to predict user preferences.
+- Addressed missing ratings with advanced imputation methods (Mean, KNN, and Supercharged KNN).
+- Delivered tailored movie recommendations based on past user activity.
+
+### 4. **Biscuit Optimization**
+- Developed an optimization algorithm to maximize production profit and minimize material waste in a biscuit manufacturing process.
+- Utilized **Genetic Algorithms** to efficiently explore the solution space and optimize placement strategies.
+- Implemented **Constraint Satisfaction Problem (CSP)** techniques to handle production constraints like dimensions and defects.
+- Delivered a Python-based solution for scalable manufacturing optimization.
+
+### 5. **TransConnect Management System**
+- Developed an all-in-one management application in **C#** for a transportation company.
+- Included features such as:
+  - **Route optimization** using Dijkstra's algorithm.
+  - **Employee, client, and vehicle management**.
+  - Visualization of organizational data using **n-ary trees**.
 
 
 ## 📫 Get in Touch
 
-- **LinkedIn**: [Tom Delahaye]([https://www.linkedin.com](https://www.linkedin.com/in/tom-delahaye-246b20268/))
+- **LinkedIn**: [Tom Delahaye](https://www.linkedin.com/in/tom-delahaye)
+- **GitHub**: [Tom-dlhy](https://github.com/Tom-dlhy)
 - **Email**: delahaye.tom@icloud.com
 
-Feel free to reach out if you’d like to discuss projects or ideas in the fields of data science and artificial intelligence!
+Feel free to connect with me for discussions about projects, collaborations, or ideas in the fields of **data science** and **artificial intelligence**!
